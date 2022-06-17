@@ -21,9 +21,7 @@ Using MultiOutputRegressor with estimator Randomforest.
   <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/HeadPoseEstimation/main/results/test1.png"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FatmaAlZhraaMarzouk/HeadPoseEstimation/main/results/test2.png"/>
-</p>
+
 
 <h1>Contact</h1>
 <p>
