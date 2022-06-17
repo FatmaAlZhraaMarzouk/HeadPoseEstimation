@@ -10,6 +10,8 @@ This repository conations Machine learning project using MediaPipeFace Mesh whic
 <h1> Dataset</h1>
 <h3>AFLW2000-3D</h3>
 AFLW2000-3D is a dataset of 2000 images that have been annotated with image-level 68-point 3D facial landmarks. This dataset is used for evaluation of 3D facial landmark detection models.
-<p align="center">
-  <img src="https://www.researchgate.net/publication/337761543/figure/fig5/AS:832731076370435@1575549968242/Landmark-detection-examples-from-the-300W-dataset_W640.jpg"/>
-</p>
+
+
+<h1> Model</h1>
+Using MultiOutputRegressor with estimator Randomforest.
+
